@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReBook", "ReBook.csproj", "{22D97A3F-7F7C-4752-8629-8C475449F634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22D97A3F-7F7C-4752-8629-8C475449F634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D97A3F-7F7C-4752-8629-8C475449F634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D97A3F-7F7C-4752-8629-8C475449F634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D97A3F-7F7C-4752-8629-8C475449F634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {821CE7BA-2BA9-4A08-8726-5BB8596855ED}
+	EndGlobalSection
+EndGlobal
